@@ -1,0 +1,6 @@
+SSL Handshake 
+TCP/IP
+ssl eNCRYPTION IS 2048 BIT ENCRYPTION WHICH IS VIRTUALLY UNBREAKABLE
+POP3/IMAP are protocol which are on the SMTP gmail server and define the way for downloading the email messages when the recipient connects to the server.
+COAXIAL CABLE: A ISP isssues a modem to you and connets to the modem through a coaxial cable
+Public IP of devices connected to a router would remain same but provides a unique local IP address
